@@ -1,0 +1,139 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <title>Website Design by Roger Gervin</title>
+    <link type="text/css" rel="Stylesheet" href="style.css" />
+    
+</head>
+<body leftmargin="0" topmargin="0">
+
+     <div id="wrapper">
+
+        <table cellpadding="0" cellspacing="0">
+            <tr>
+                <td width="100%" align="left" valign="bottom">
+                 <div id="header">
+                   <div id="header-title">
+                        <img name="toplogo4" src="images/toplogo4.png" width="278" height="30" border="0" usemap="#m_toplogo4" alt="">
+                        <map name="m_toplogo4" id="logomap">
+                        <area shape="rect" coords="23,13,245,27" href="http://rgervin.com/Default.aspx" title="Website Design by Roger Gervin" alt="Website Design by Roger Gervin" >
+                        </map>                   
+                   </div>  <!-- header-title -->
+                 </div> <!-- header -->
+                </td>
+            </tr>
+        </table>
+                        
+        <table cellpadding="0" cellspacing="0">
+            <tr>
+                <td valign="top">
+                 <div id="main">
+                   <div id="content">
+                      <div class="menu">
+                      
+                        <br />
+                        
+                        &nbsp; &nbsp; &nbsp; <a href="Default.aspx">Home</a>
+                        &nbsp; &nbsp; &nbsp; <a href="Projects.aspx">Projects</a>
+                        &nbsp; &nbsp; &nbsp; <a href="Layout.aspx">Five Steps</a>
+                        &nbsp; &nbsp; &nbsp; <a href="MemberLogin.aspx">Members Login</a>
+                        &nbsp; &nbsp; &nbsp; <a href="Contact.aspx">Contact</a>
+                     </div> <!-- menu -->
+                      
+                     <div class="inner">
+                
+                                    
+                    <div>
+ 		                <h1>The Photo Album you are requesting has been removed:</h1>
+		                <br />                   
+                        I am sorry for this inconvenience... however, the photo album software that I was using prior to 2008 is no longer supported
+                        by the developer. 
+                        <br /><br />
+                        All of the photo albums that were created after December 31, 2007 are still available for your enjoyment.
+                        <br />  
+                        
+                    </div>
+                
+                    <br />
+                     
+                      </div> <!-- inner -->
+                    </div>  <!-- content -->
+                
+                    <div id="sidebar">
+                     
+                      <div class="inner">
+                      
+                        <div align="right">
+                            <img name="bottomlogo2" src="images/bottomlogo2.png" width="238" height="77" border="0" usemap="#m_bottomlogo2" alt="" />
+                            <map name="m_bottomlogo2" id="bottomlogo2">
+                            <area shape="rect" coords="56,3,210,63" href="http://rgervin.com" target="_self" alt="Website Design by Roger Gervin" />
+                            </map>
+                        </div>
+                        
+                        <br />
+                        
+                        <div align="left">
+                            <ul id="m">
+                                <li><a href="http://rgervin.com/HikingIntroduction.aspx" title="Hiking Database."> &nbsp; &nbsp; &nbsp; Hiking Database</a><br /><br /></li>
+                                <li><a href="http://rgervin.com/PhotoGalleries.aspx" title="Photo Galleries.">&nbsp; &nbsp; &nbsp; Photo Galleries</a><br /><br /></li>
+                                <li><a href="http://rgervin.com/Calendar.aspx" title="Calendar Database.">&nbsp; &nbsp; &nbsp; Calendar Database</a><br /><br /></li>
+                                <li><a href="http://rgervin.com/Sitemap.aspx" title="Sitemap."> &nbsp; &nbsp; &nbsp; Sitemap</a><br /><br /></li>
+                                <li><a href="http://rgervin.com/SearchMySite.htm" title="Search my Site."> &nbsp; &nbsp; &nbsp; Search My Site</a><br /></li>
+                            </ul>
+                        </div>   
+                        
+                        <br />
+                                                    
+                      </div> <!-- inner -->
+                      
+                        <table cellpadding="0" cellspacing="0" align="center">
+                            <tr>
+                                <td align="center" valign="top">
+                                   <div id="footer">
+                                        <p>Copyright &copy; 2002 
+                                            <br />
+                                            <a href="http://rgervin.com/" target="_self">Website Design by Roger Gervin</a>
+                                            <br />
+                                            All Rights Reserved
+                                            <br /><br /><br />
+                                            
+                                            <br /><br />                                            
+                                        </p>
+                                   </div>  <!-- footer -->
+                                </td>
+                            </tr>
+                        </table>                      
+                      
+                    </div>  <!-- sidebar --> 
+                        
+                  </div>  <!-- main -->
+                   
+                </td>
+            </tr>
+        </table>
+        
+                          <div id="bottommenu">
+                           <p>
+                            <br />
+                            &nbsp; &nbsp; | &nbsp; <a href="Default.aspx" title="Home">Home</a>
+
+                            &nbsp; | &nbsp; <a href="Projects.aspx" title="My Website Projects">Projects</a>
+                                                       
+                            &nbsp; | &nbsp; <a href="HikingIntroduction.aspx" title="Hiking Database">Hiking Database</a>
+
+                            &nbsp; | &nbsp; <a href="PhotoGalleries.aspx" title="Photo Galleries">Photo Galleries</a>
+
+                            &nbsp; | &nbsp; <a href="Calendar.aspx" title="Calendar Database">Calendar Database</a>
+                            
+                            &nbsp; | &nbsp; <a href="Sitemap.aspx" title="Site Map">Site Map</a>
+                            
+                            &nbsp; | &nbsp; <a href="SearchMySite.htm" title="Search My Site">Search My Site</a>
+                            &nbsp; |
+                            <br /><br />
+                           </p>
+                          </div>          
+            
+     </div>  <!-- wrapper -->          
+
+</body>
+</html>
